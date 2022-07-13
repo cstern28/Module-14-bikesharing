@@ -1,4 +1,4 @@
-# module-14-bikesharing
+# Module-14-bikesharing
 
 [link to dashboard] (https://public.tableau.com/app/profile/courtney.stern/viz/CitiBikeChal-Deliv2/Story1?publish=yes)
 
@@ -31,7 +31,7 @@ This shows that mostly male subscribers to the citibike program are the customer
 
 ### Gender Breakdown
 ![Image](https://github.com/cstern28/Module-14-bikesharing/blob/main/Screenshots/Gender_Breakdown.png)
-This shows than 1.5 million males ue the citibikes. 588,000 users are females. 
+This shows than 1.5 million males use the citibikes. 588,000 users are females. 
 
 ### Average Trip Duration by Age
 ![Image](https://github.com/cstern28/Module-14-bikesharing/blob/main/Screenshots/Avg_Trip_Duration_byAge.png)
